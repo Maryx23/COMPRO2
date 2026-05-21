@@ -1,10 +1,10 @@
 package com.phonebook;
 
 
-import java.util.Scanner;
-
 import com.phonebook.models.Contact;
 import com.phonebook.services.PhonebookService;
+
+import java.util.Scanner;
 
 public class Main {
     private static final String FILE_NAME = "contacts.csv";
