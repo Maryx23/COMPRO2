@@ -1,0 +1,12 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "age": 25,
+  "emailAddress": "john.doe@example.com",
+  "phoneNumber": "+15550101",
+  "dateOfBirth": "1999-05-15",
+  "homeAddress": "123 Java Lane",
+  "isEmployed": true,
+  "nationality": "Canadian",
+  "gender": "Non-binary"
+}
