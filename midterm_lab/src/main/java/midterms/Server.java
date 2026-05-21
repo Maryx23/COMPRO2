@@ -15,7 +15,7 @@ public class Server {
 
         Socket socket1 = serverSocket.accept();
         System.out.println("Player 1 connected.");
-        Socket socket2 = serverSocket.accept();
+        Socket socket2 = serverSocket.accept(); 
         System.out.println("Player 2 connected.");
 
         BufferedReader p1In = new BufferedReader(new InputStreamReader(socket1.getInputStream()));
